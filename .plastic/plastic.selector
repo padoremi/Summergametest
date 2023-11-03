@@ -1,0 +1,4 @@
+repository "Summergametest_1@padochoii@cloud"
+  path "/"
+    br "/main"
+    co "/main"
